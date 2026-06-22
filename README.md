@@ -10,7 +10,7 @@ Dept. of Automotive Engineering, Hanyang University
 | Item | Link |
 |---|---|
 | Pre-recorded presentation video | [YouTube](https://www.youtube.com/watch?v=jhkgY0vVDiw) |
-| Presentation slides | [FinalProject_HyunjunKim_Dongguekim_Jeongwoopark.pdf](FinalProject_HyunjunKim_Dongguekim_Jeongwoopark.pdf) |
+| Presentation slides | [자율주행인공지능체화FinalProject_김현준_김동규_박정우.pdf](자율주행인공지능체화FinalProject_김현준_김동규_박정우.pdf) |
 | Report | [Report.pdf](Report.pdf) |
 | Dataset | [NAVSIM](https://github.com/autonomousvision/navsim) (not included in this repo — see [Dataset](#dataset) below) |
 | Demo | See [Demo](https://youtu.be/uQsQ1fpQokA?si=hEt3pFVVzgNwFx1X) below — qualitative result figures from the report |
